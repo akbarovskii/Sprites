@@ -9,13 +9,15 @@ Sprites for portfolio 🎨
 
 <img src="./Sprites/character.png" width="750" alt="Work_7">
 
-## 🚘 CARTING
+## ⚙️ TECHNIQUE
 
-<img src="./Photo/Carting_1.png" width="250" alt="Work_1"> <img src="./Photo/Carting_2.png" width="250" alt="Work_2"> <img src="./Photo/Carting_3.png" width="250" alt="Work_3">
+<img src="./Sprites/chip.png" width="250" alt="Work_1"> <img src="./Sprites/graphics%20card.png" width="250" alt="Work_2"> <img src="./Sprites/future%20tooth.png" width="250" alt="Work_3">
 
-## 🍽️ PLATE AND SPOON
+<img src="./Sprites/Drone.png" width="250" alt="Work_1"> <img src="./Sprites/Eye%20of%20the%20Future.png" width="250" alt="Work_2">
 
-<img src="./Photo/PlateAndSpoon_1.png" width="250" alt="Work_1"> <img src="./Photo/PlateAndSpoon_2.png" width="250" alt="Work_2"> <img src="./Photo/PlateAndSpoon_3.png" width="250" alt="Work_3">
+## 👥 CHARACTERS
+
+<img src="./Sprites/PlateAndSpoon_1.png" width="250" alt="Work_1"> <img src="./Sprites/PlateAndSpoon_2.png" width="250" alt="Work_2"> <img src="./Sprites/PlateAndSpoon_3.png" width="250" alt="Work_3">
 
 ## 🎮 GAMING CONSOLE
 
