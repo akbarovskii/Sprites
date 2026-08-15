@@ -7,6 +7,8 @@ Sprites for portfolio 🎨
 
 <img src="./Sprites/snowball.png" width="250" alt="Work_4"> <img src="./Sprites/icejam.png" width="250" alt="Work_5"> <img src="./Sprites/Yeti.png" width="250" alt="Work_6">
 
+<img src="./Sprites/character.png" width="250" alt="Work_7">
+
 ## 🚘 CARTING
 
 <img src="./Photo/Carting_1.png" width="250" alt="Work_1"> <img src="./Photo/Carting_2.png" width="250" alt="Work_2"> <img src="./Photo/Carting_3.png" width="250" alt="Work_3">
