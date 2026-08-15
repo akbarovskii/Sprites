@@ -3,7 +3,7 @@ Sprites for portfolio 🎨
 
 ## 👽 ALIEN
 
-<img src="./Sprites/candy%cane.png" width="250" alt="Work_1"> <img src="./Sprites/Christmas%tree.png" width="250" alt="Work_2"> <img src="./Sprites/gift.png" width="250" alt="Work_3">
+<img src="./Sprites/candy%20cane.png" width="250" alt="Work_1"> <img src="./Sprites/Christmas%20tree.png" width="250" alt="Work_2"> <img src="./Sprites/gift.png" width="250" alt="Work_3">
 
 ## 🚘 CARTING
 
