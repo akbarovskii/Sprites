@@ -1,9 +1,11 @@
 # Sprites
 Sprites for portfolio 🎨
 
-## 👽 ALIEN
+## ⛄ WINTER
 
 <img src="./Sprites/candy%20cane.png" width="250" alt="Work_1"> <img src="./Sprites/Christmas%20tree.png" width="250" alt="Work_2"> <img src="./Sprites/gift.png" width="250" alt="Work_3">
+
+<img src="./Sprites/snowball.png" width="250" alt="Work_4"> <img src="./Sprites/icejam.png" width="250" alt="Work_5"> <img src="./Sprites/tower.png" width="250" alt="Work_6">
 
 ## 🚘 CARTING
 
