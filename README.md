@@ -3,11 +3,11 @@ Sprites for portfolio 🎨
 
 ## ⛄ WINTER
 
-<img src="./Sprites/candy%20cane.png" width="100" alt="Work_1"> <img src="./Sprites/Christmas%20tree.png" width="100" alt="Work_2"> <img src="./Sprites/gift.png" width="100" alt="Work_3">
+<img src="./Sprites/candy%20cane.png" width="100" alt="Work_1"> <img src="./Sprites/Christmas%20tree.png" width="100" alt="Work_2"> <img src="./Sprites/gift.png" width="100" alt="Work_3">  <img src="./Sprites/goblin.png" width="100" alt="Work_4"> 
 
-<img src="./Sprites/snowball.png" width="100" alt="Work_4"> <img src="./Sprites/icejam.png" width="100" alt="Work_5"> <img src="./Sprites/Yeti.png" width="100" alt="Work_6">
+<img src="./Sprites/snowball.png" width="100" alt="Work_4"> <img src="./Sprites/icejam.png" width="100" alt="Work_5"> <img src="./Sprites/Yeti.png" width="100" alt="Work_6"> <img src="./Sprites/deer.png" width="100" alt="Work_7"> <img src="./Sprites/tower.png" width="100" alt="Work_9">
 
-<img src="./Sprites/character.png" width="300" alt="Work_7">
+<img src="./Sprites/character.png" width="300" alt="Work_8"> <img src="./Sprites/elf.png" width="100" alt="Work_9">
 
 ## ⚙️ TECHNIQUE
 
