@@ -1,5 +1,5 @@
-# #️⃣ Sprites
-Sprites for portfolio 🎨
+# Pixel Art & Sprites Portfolio
+Featured pixel assets designed for game projects. 🎨
 
 <p align="center">
   <a href="#english">English</a> • 
