@@ -61,8 +61,8 @@ Showcase of pixel art assets developed and integrated into games on the **Unity 
   </tr>
 </table>
 
-### 🛠 Tools
-* **Design:** MagicaVoxel
+### 🛠️ Tools
+* **Design:** MagicaVoxel (2D)
 
 ### 🔒 Copyright
 
@@ -125,8 +125,8 @@ All graphic assets and sprites are the intellectual property of the author. Unau
   </tr>
 </table>
 
-### 🛠 设计软件
-* **设计软件:** MagicaVoxel
+### 🛠️ 设计软件
+* **设计软件:** MagicaVoxel (2D)
 
 ### 🔒 版权声明
 
@@ -189,8 +189,8 @@ All graphic assets and sprites are the intellectual property of the author. Unau
   </tr>
 </table>
 
-### 🛠 Инструменты
-* **Дизайн:** MagicaVoxel
+### 🛠️ Инструменты
+* **Дизайн:** MagicaVoxel (2D)
 
 ### 🔒 Авторские права
 
