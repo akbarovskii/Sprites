@@ -1,28 +1,200 @@
-# Sprites
+# #️⃣ Sprites
 Sprites for portfolio 🎨
 
-## ⛄ WINTER
+<p align="center">
+  <a href="#english">English</a> • 
+  <a href="#chinese">中文</a> • 
+  <a href="#russian">Русский</a>
+</p>
 
-<img src="./Sprites/candy%20cane.png" width="100" alt="Work_1"> <img src="./Sprites/Christmas%20tree.png" width="100" alt="Work_2"> <img src="./Sprites/gift.png" width="100" alt="Work_3">  <img src="./Sprites/goblin.png" width="100" alt="Work_4"> 
+---
 
-<img src="./Sprites/snowball.png" width="100" alt="Work_4"> <img src="./Sprites/icejam.png" width="100" alt="Work_5"> <img src="./Sprites/Yeti.png" width="100" alt="Work_6"> <img src="./Sprites/deer.png" width="100" alt="Work_7"> <img src="./Sprites/tower.png" width="100" alt="Work_9">
+<a name="english"></a>
+## 🇬🇧 Game Art & Pixel Sprites Portfolio
+Showcase of pixel art assets developed and integrated into games on the **Unity Engine**.
 
-<img src="./Sprites/character.png" width="300" alt="Work_8"> <img src="./Sprites/elf.png" width="100" alt="Work_9">
+### ⛄ WINTER
+<table>
+  <tr>
+    <td width="20%"><img src="./Sprites/candy%20cane.png" alt="Work_1" width="100%"></td>
+    <td width="20%"><img src="./Sprites/Christmas%20tree.png" alt="Work_2" width="100%"></td>
+    <td width="20%"><img src="./Sprites/gift.png" alt="Work_3" width="100%"></td>
+    <td width="20%"><img src="./Sprites/goblin.png" alt="Work_4" width="100%"></td>
+    <td width="20%"><img src="./Sprites/snowball.png" alt="Work_4" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="20%"><img src="./Sprites/icejam.png" alt="Work_5" width="100%"></td>
+    <td width="20%"><img src="./Sprites/Yeti.png" alt="Work_6" width="100%"></td>
+    <td width="20%"><img src="./Sprites/deer.png" alt="Work_7" width="100%"></td>
+    <td width="20%"><img src="./Sprites/tower.png" alt="Work_9" width="100%"></td>
+    <td width="20%"><img src="./Sprites/elf.png" alt="Work_9" width="100%"></td>
+  </tr>
+</table>
 
-## ⚙️ TECHNIQUE
+### ⚙️ TECHNIQUE
+<table>
+  <tr>
+    <td width="33.3%"><img src="./Sprites/chip.png" alt="Work_1" width="100%"></td>
+    <td width="33.3%"><img src="./Sprites/graphics%20card.png" alt="Work_2" width="100%"></td>
+    <td width="33.3%"><img src="./Sprites/future%20tooth.png" alt="Work_3" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="33.3%"><img src="./Sprites/Drone.png" alt="Work_1" width="100%"></td>
+    <td width="33.3%"><img src="./Sprites/Eye%20of%20the%20Future.png" alt="Work_2" width="100%"></td>
+    <td width="33.3%"><img src="./Sprites/Toxin-7.png" alt="Work_3" width="100%"></td>
+  </tr>
+</table>
 
-<img src="./Sprites/chip.png" width="100" alt="Work_1"> <img src="./Sprites/graphics%20card.png" width="100" alt="Work_2"> <img src="./Sprites/future%20tooth.png" width="100" alt="Work_3">
-
-<img src="./Sprites/Drone.png" width="100" alt="Work_1"> <img src="./Sprites/Eye%20of%20the%20Future.png" width="100" alt="Work_2">
-
-## 🍔 FOOD
-
-<img src="./Sprites/shrimp.png" width="100" alt="Work_1"> <img src="./Sprites/chicken%20sushi.png" width="100" alt="Work_2"> <img src="./Sprites/seafood%20feast.png" width="100" alt="Work_3">
+### 🍔 FOOD
+<table>
+  <tr>
+    <td width="25%"><img src="./Sprites/shrimp.png" alt="Work_1" width="100%"></td>
+    <td width="25%"><img src="./Sprites/chicken%20sushi.png" alt="Work_2" width="100%"></td>
+    <td width="25%"><img src="./Sprites/seafood%20feast.png" alt="Work_3" width="100%"></td>
+    <td width="25%"><img src="./Sprites/ramen.png" alt="Work_3" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="./Sprites/salad.png" alt="Work_1" width="100%"></td>
+    <td width="25%"><img src="./Sprites/French%20fries.png" alt="Work_2" width="100%"></td>
+    <td width="25%"><img src="./Sprites/cuber%20sushi.png" alt="Work_3" width="100%"></td>
+    <td width="25%"><img src="./Sprites/chicken.png" alt="Work_3" width="100%"></td>
+  </tr>
+</table>
 
 ### 🛠 Tools
-* Design: MagicaVoxel
+* **Design:** MagicaVoxel
 
 ### 🔒 Copyright
+
 © 2024–2026 **Akbarov Damir**. All rights reserved.
 
-This project and all its visual assets (voxel models, 2D/3D sprites, textures, and renders) were created using MagicaVoxel and are for portfolio demonstration purposes only. Unauthorized copying, modification, or commercial use of these materials without the author's express written permission is strictly prohibited.
+All graphic assets and sprites are the intellectual property of the author. Unauthorized copying, modification, or distribution of these resources without prior written permission from the copyright holder is strictly prohibited.
+
+
+---
+
+<a name="chinese"></a>
+## 🇨🇳 游戏美术与像素资源作品集
+像素艺术资产展示，均已导入、配置并应用于 **Unity 引擎** 开发的游戏项目中。
+
+### ⛄ 冬季主题 (WINTER)
+<table>
+  <tr>
+    <td width="20%"><img src="./Sprites/candy%20cane.png" alt="Work_1" width="100%"></td>
+    <td width="20%"><img src="./Sprites/Christmas%20tree.png" alt="Work_2" width="100%"></td>
+    <td width="20%"><img src="./Sprites/gift.png" alt="Work_3" width="100%"></td>
+    <td width="20%"><img src="./Sprites/goblin.png" alt="Work_4" width="100%"></td>
+    <td width="20%"><img src="./Sprites/snowball.png" alt="Work_4" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="20%"><img src="./Sprites/icejam.png" alt="Work_5" width="100%"></td>
+    <td width="20%"><img src="./Sprites/Yeti.png" alt="Work_6" width="100%"></td>
+    <td width="20%"><img src="./Sprites/deer.png" alt="Work_7" width="100%"></td>
+    <td width="20%"><img src="./Sprites/tower.png" alt="Work_9" width="100%"></td>
+    <td width="20%"><img src="./Sprites/elf.png" alt="Work_9" width="100%"></td>
+  </tr>
+</table>
+
+### ⚙️ 科技未来 (TECHNIQUE)
+<table>
+  <tr>
+    <td width="33.3%"><img src="./Sprites/chip.png" alt="Work_1" width="100%"></td>
+    <td width="33.3%"><img src="./Sprites/graphics%20card.png" alt="Work_2" width="100%"></td>
+    <td width="33.3%"><img src="./Sprites/future%20tooth.png" alt="Work_3" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="33.3%"><img src="./Sprites/Drone.png" alt="Work_1" width="100%"></td>
+    <td width="33.3%"><img src="./Sprites/Eye%20of%20the%20Future.png" alt="Work_2" width="100%"></td>
+    <td width="33.3%"><img src="./Sprites/Toxin-7.png" alt="Work_3" width="100%"></td>
+  </tr>
+</table>
+
+### 🍔 美食系列 (FOOD)
+<table>
+  <tr>
+    <td width="25%"><img src="./Sprites/shrimp.png" alt="Work_1" width="100%"></td>
+    <td width="25%"><img src="./Sprites/chicken%20sushi.png" alt="Work_2" width="100%"></td>
+    <td width="25%"><img src="./Sprites/seafood%20feast.png" alt="Work_3" width="100%"></td>
+    <td width="25%"><img src="./Sprites/ramen.png" alt="Work_3" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="./Sprites/salad.png" alt="Work_1" width="100%"></td>
+    <td width="25%"><img src="./Sprites/French%20fries.png" alt="Work_2" width="100%"></td>
+    <td width="25%"><img src="./Sprites/cuber%20sushi.png" alt="Work_3" width="100%"></td>
+    <td width="25%"><img src="./Sprites/chicken.png" alt="Work_3" width="100%"></td>
+  </tr>
+</table>
+
+### 🛠 设计软件
+* **设计软件:** MagicaVoxel
+
+### 🔒 版权声明
+
+© 2024–2026 **Akbarov Damir**. 版权所有。
+
+本仓库内的所有图形素材和精灵图（Sprites）均为作者的知识产权。未经版权持有人事先书面许可，严禁擅自复制、修改或传播这些资源。
+
+
+---
+
+<a name="russian"></a>
+## 🇷🇺 Портфолио игровых пиксельных спрайтов
+Демонстрация пиксель-арт ассетов, разработанных и внедренных в игры на движке **Unity**.
+
+### ⛄ ЗИМА
+<table>
+  <tr>
+    <td width="20%"><img src="./Sprites/candy%20cane.png" alt="Work_1" width="100%"></td>
+    <td width="20%"><img src="./Sprites/Christmas%20tree.png" alt="Work_2" width="100%"></td>
+    <td width="20%"><img src="./Sprites/gift.png" alt="Work_3" width="100%"></td>
+    <td width="20%"><img src="./Sprites/goblin.png" alt="Work_4" width="100%"></td>
+    <td width="20%"><img src="./Sprites/snowball.png" alt="Work_4" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="20%"><img src="./Sprites/icejam.png" alt="Work_5" width="100%"></td>
+    <td width="20%"><img src="./Sprites/Yeti.png" alt="Work_6" width="100%"></td>
+    <td width="20%"><img src="./Sprites/deer.png" alt="Work_7" width="100%"></td>
+    <td width="20%"><img src="./Sprites/tower.png" alt="Work_9" width="100%"></td>
+    <td width="20%"><img src="./Sprites/elf.png" alt="Work_9" width="100%"></td>
+  </tr>
+</table>
+
+### ⚙️ ТЕХНОЛОГИИ
+<table>
+  <tr>
+    <td width="33.3%"><img src="./Sprites/chip.png" alt="Work_1" width="100%"></td>
+    <td width="33.3%"><img src="./Sprites/graphics%20card.png" alt="Work_2" width="100%"></td>
+    <td width="33.3%"><img src="./Sprites/future%20tooth.png" alt="Work_3" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="33.3%"><img src="./Sprites/Drone.png" alt="Work_1" width="100%"></td>
+    <td width="33.3%"><img src="./Sprites/Eye%20of%20the%20Future.png" alt="Work_2" width="100%"></td>
+    <td width="33.3%"><img src="./Sprites/Toxin-7.png" alt="Work_3" width="100%"></td>
+  </tr>
+</table>
+
+### 🍔 ЕДА
+<table>
+  <tr>
+    <td width="25%"><img src="./Sprites/shrimp.png" alt="Work_1" width="100%"></td>
+    <td width="25%"><img src="./Sprites/chicken%20sushi.png" alt="Work_2" width="100%"></td>
+    <td width="25%"><img src="./Sprites/seafood%20feast.png" alt="Work_3" width="100%"></td>
+    <td width="25%"><img src="./Sprites/ramen.png" alt="Work_3" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="./Sprites/salad.png" alt="Work_1" width="100%"></td>
+    <td width="25%"><img src="./Sprites/French%20fries.png" alt="Work_2" width="100%"></td>
+    <td width="25%"><img src="./Sprites/cuber%20sushi.png" alt="Work_3" width="100%"></td>
+    <td width="25%"><img src="./Sprites/chicken.png" alt="Work_3" width="100%"></td>
+  </tr>
+</table>
+
+### 🛠 Инструменты
+* **Дизайн:** MagicaVoxel
+
+### 🔒 Авторские права
+
+© 2024–2026 **Akbarov Damir**. Все права защищены.
+
+Все графические материалы и спрайты являются интеллектуальной собственностью автора. Копирование, модификация или распространение этих ресурсов без предварительного письменного согласия правообладателя запрещены.
+
