@@ -1,4 +1,4 @@
-# Pixel Art & Sprites Portfolio
+# 🖌️ Pixel Art & Sprites Portfolio
 Featured pixel assets designed for game projects. 🎨
 
 <p align="center">
